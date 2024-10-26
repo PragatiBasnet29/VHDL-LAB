@@ -1,4 +1,4 @@
-# Es_assignment
+# VHDL-LAB (embedded system)
 Solution code of past 9 questions of embedded system on vhdl
 
 ### Setup Instructions
